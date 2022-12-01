@@ -243,3 +243,4 @@
 2022-12-01 - perf: cache DB queries
 2022-12-01 - refactor: modularize service
 2022-12-01 - chore: clean up old code
+2022-12-01 - test: add basic tests
