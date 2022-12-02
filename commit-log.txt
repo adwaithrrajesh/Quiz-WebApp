@@ -244,3 +244,4 @@
 2022-12-01 - refactor: modularize service
 2022-12-01 - chore: clean up old code
 2022-12-01 - test: add basic tests
+2022-12-02 - docs: add API usage example
