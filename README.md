@@ -76,3 +76,4 @@
 // feat: add new helper method (2023-12-12)
 // test: add edge case coverage (2023-12-15)
 // ci: update workflow file (2022-12-01)
+// refactor: simplify logic in script (2022-12-07)
