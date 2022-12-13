@@ -247,3 +247,4 @@
 2022-12-02 - docs: add API usage example
 2022-12-06 - feat: add new helper method
 2022-12-08 - chore: bump version to 1.2.0
+2022-12-13 - docs: clarify API response format
