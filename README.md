@@ -78,3 +78,4 @@
 // ci: update workflow file (2022-12-01)
 // refactor: simplify logic in script (2022-12-07)
 // test: add edge case coverage (2022-12-12)
+// chore: clean up old code (2022-12-14)
