@@ -253,3 +253,4 @@
 2022-12-15 - test: add basic tests
 2022-12-19 - refactor: simplify logic in script
 2022-12-21 - style: fix formatting
+2022-12-22 - refactor: modularize service
