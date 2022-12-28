@@ -82,3 +82,4 @@
 // chore: clean up old code (2022-12-20)
 // perf: cache DB queries (2022-12-23)
 // refactor: simplify logic in script (2022-12-26)
+// docs: clarify API response format (2022-12-28)
