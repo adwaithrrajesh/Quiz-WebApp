@@ -257,3 +257,4 @@
 2022-12-26 - docs: clarify API response format
 2022-12-26 - test: add edge case coverage
 2022-12-29 - test: add basic tests
+2022-12-29 - docs: clarify API response format
