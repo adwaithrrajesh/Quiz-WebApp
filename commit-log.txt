@@ -259,3 +259,4 @@
 2022-12-29 - test: add basic tests
 2022-12-29 - docs: clarify API response format
 2022-12-29 - feat: add logging middleware
+2022-12-29 - docs: add API usage example
