@@ -262,3 +262,4 @@
 2022-12-29 - docs: add API usage example
 2023-01-02 - perf: optimize loop execution
 2023-01-02 - docs: clarify API response format
+2023-01-03 - fix: handle null pointer in service
