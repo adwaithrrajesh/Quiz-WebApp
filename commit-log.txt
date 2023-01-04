@@ -1,2 +1,3 @@
 2023-01-01 - docs: add API usage example
 2023-01-03 - ci: update workflow file
+2023-01-04 - fix: typo in README
