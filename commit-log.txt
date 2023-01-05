@@ -264,3 +264,4 @@
 2023-01-02 - docs: clarify API response format
 2023-01-03 - fix: handle null pointer in service
 2023-01-03 - feat: integrate new endpoint
+2023-01-05 - docs: add API usage example
