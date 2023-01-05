@@ -3,3 +3,4 @@
 2023-01-04 - fix: typo in README
 2023-01-05 - refactor: modularize service
 2023-01-05 - docs: clarify API response format
+2023-01-05 - docs: update usage section
