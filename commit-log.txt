@@ -7,3 +7,4 @@
 2023-01-06 - fix: handle null pointer in service
 2023-01-09 - refactor: simplify logic in script
 2023-01-09 - build: update dependencies
+2023-01-10 - feat: add new helper method
