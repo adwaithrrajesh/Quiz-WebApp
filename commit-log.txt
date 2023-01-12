@@ -10,3 +10,4 @@
 2023-01-10 - feat: add new helper method
 2023-01-11 - refactor: modularize service
 2023-01-11 - test: add edge case coverage
+2023-01-12 - docs: update usage section
