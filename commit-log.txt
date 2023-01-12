@@ -269,3 +269,4 @@
 2023-01-07 - feat: add logging middleware
 2023-01-09 - feat: add logging middleware
 2023-01-10 - feat: add new helper method
+2023-01-12 - build: update dependencies
