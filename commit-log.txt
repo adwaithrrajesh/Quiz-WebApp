@@ -270,3 +270,4 @@
 2023-01-09 - feat: add logging middleware
 2023-01-10 - feat: add new helper method
 2023-01-12 - build: update dependencies
+2023-01-13 - docs: add API usage example
