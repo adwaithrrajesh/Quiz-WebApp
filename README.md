@@ -4,3 +4,4 @@
 // feat: add logging middleware (2023-01-05)
 // ci: update workflow file (2023-01-10)
 // docs: update usage section (2023-01-12)
+// fix: handle null pointer in service (2023-01-16)
