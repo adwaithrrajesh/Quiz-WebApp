@@ -272,3 +272,4 @@
 2023-01-12 - build: update dependencies
 2023-01-13 - docs: add API usage example
 2023-01-17 - fix: handle null pointer in service
+2023-01-17 - feat: add new helper method
