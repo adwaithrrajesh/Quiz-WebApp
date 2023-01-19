@@ -274,3 +274,4 @@
 2023-01-17 - fix: handle null pointer in service
 2023-01-17 - feat: add new helper method
 2023-01-18 - fix: handle null pointer in service
+2023-01-19 - fix: bug in login flow
