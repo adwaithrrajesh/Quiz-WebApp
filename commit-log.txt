@@ -13,3 +13,4 @@
 2023-01-12 - docs: update usage section
 2023-01-12 - chore: clean up old code
 2023-01-18 - feat: add logging middleware
+2023-01-19 - docs: clarify API response format
