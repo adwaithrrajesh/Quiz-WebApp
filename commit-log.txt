@@ -275,3 +275,4 @@
 2023-01-17 - feat: add new helper method
 2023-01-18 - fix: handle null pointer in service
 2023-01-19 - fix: bug in login flow
+2023-01-24 - refactor: simplify logic in script
