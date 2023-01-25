@@ -277,3 +277,4 @@
 2023-01-19 - fix: bug in login flow
 2023-01-24 - refactor: simplify logic in script
 2023-01-25 - ci: update workflow file
+2023-01-25 - fix: typo in README
