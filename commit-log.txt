@@ -18,3 +18,4 @@
 2023-01-19 - ci: update workflow file
 2023-01-19 - fix: typo in README
 2023-01-26 - test: add edge case coverage
+2023-01-26 - feat: add logging middleware
