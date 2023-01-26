@@ -20,3 +20,4 @@
 2023-01-26 - test: add edge case coverage
 2023-01-26 - feat: add logging middleware
 2023-01-26 - test: add basic tests
+2023-01-26 - docs: add API usage example
