@@ -7,3 +7,4 @@
 // fix: handle null pointer in service (2023-01-16)
 // perf: optimize loop execution (2023-01-25)
 // docs: clarify API response format (2023-01-26)
+// docs: clarify API response format (2023-01-27)
