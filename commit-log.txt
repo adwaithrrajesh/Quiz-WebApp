@@ -278,3 +278,4 @@
 2023-01-24 - refactor: simplify logic in script
 2023-01-25 - ci: update workflow file
 2023-01-25 - fix: typo in README
+2023-01-29 - chore: clean up old code
