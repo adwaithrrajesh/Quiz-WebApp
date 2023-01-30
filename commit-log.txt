@@ -22,3 +22,4 @@
 2023-01-26 - test: add basic tests
 2023-01-26 - docs: add API usage example
 2023-01-30 - chore: bump version to 1.2.0
+2023-01-30 - test: add basic tests
