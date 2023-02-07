@@ -26,3 +26,4 @@
 2023-01-30 - refactor: simplify logic in script
 2023-01-30 - perf: cache DB queries
 2023-02-02 - feat: add logging middleware
+2023-02-07 - build: update dependencies
