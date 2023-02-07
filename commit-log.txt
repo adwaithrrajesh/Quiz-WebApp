@@ -287,3 +287,4 @@
 2023-02-02 - fix: bug in login flow
 2023-02-03 - build: update dependencies
 2023-02-07 - fix: bug in login flow
+2023-02-07 - test: add basic tests
