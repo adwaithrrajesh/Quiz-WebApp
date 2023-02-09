@@ -29,3 +29,4 @@
 2023-02-07 - build: update dependencies
 2023-02-07 - chore: bump version to 1.2.0
 2023-02-07 - fix: handle null pointer in service
+2023-02-09 - build: update dependencies
