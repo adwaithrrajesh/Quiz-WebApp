@@ -10,3 +10,4 @@
 // docs: clarify API response format (2023-01-27)
 // feat: add new helper method (2023-02-08)
 // ci: update workflow file (2023-02-09)
+// refactor: simplify logic in script (2023-02-10)
