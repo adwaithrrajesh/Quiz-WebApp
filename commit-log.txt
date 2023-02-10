@@ -291,3 +291,4 @@
 2023-02-08 - docs: clarify API response format
 2023-02-10 - build: update dependencies
 2023-02-10 - docs: update usage section
+2023-02-10 - style: fix formatting
