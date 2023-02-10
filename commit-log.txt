@@ -290,3 +290,4 @@
 2023-02-07 - test: add basic tests
 2023-02-08 - docs: clarify API response format
 2023-02-10 - build: update dependencies
+2023-02-10 - docs: update usage section
