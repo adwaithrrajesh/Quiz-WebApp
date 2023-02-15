@@ -294,3 +294,4 @@
 2023-02-10 - style: fix formatting
 2023-02-13 - feat: add logging middleware
 2023-02-14 - refactor: simplify logic in script
+2023-02-15 - chore: clean up old code
