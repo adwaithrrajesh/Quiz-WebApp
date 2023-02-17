@@ -299,3 +299,4 @@
 2023-02-16 - chore: clean up old code
 2023-02-16 - perf: cache DB queries
 2023-02-16 - refactor: simplify logic in script
+2023-02-17 - chore: bump version to 1.2.0
