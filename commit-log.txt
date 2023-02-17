@@ -300,3 +300,4 @@
 2023-02-16 - perf: cache DB queries
 2023-02-16 - refactor: simplify logic in script
 2023-02-17 - chore: bump version to 1.2.0
+2023-02-17 - docs: add API usage example
