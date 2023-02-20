@@ -33,3 +33,4 @@
 2023-02-09 - fix: typo in README
 2023-02-14 - feat: add new helper method
 2023-02-16 - style: fix formatting
+2023-02-20 - docs: update usage section
