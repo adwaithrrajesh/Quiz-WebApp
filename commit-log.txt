@@ -304,3 +304,4 @@
 2023-02-20 - style: fix formatting
 2023-02-22 - fix: handle null pointer in service
 2023-02-22 - docs: add API usage example
+2023-02-22 - style: fix formatting
