@@ -12,3 +12,4 @@
 // ci: update workflow file (2023-02-09)
 // refactor: simplify logic in script (2023-02-10)
 // perf: optimize loop execution (2023-02-16)
+// chore: bump version to 1.2.0 (2023-02-23)
