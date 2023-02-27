@@ -307,3 +307,4 @@
 2023-02-22 - style: fix formatting
 2023-02-23 - perf: cache DB queries
 2023-02-24 - ci: update workflow file
+2023-02-27 - feat: integrate new endpoint
