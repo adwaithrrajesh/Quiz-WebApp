@@ -38,3 +38,4 @@
 2023-02-21 - perf: cache DB queries
 2023-02-22 - test: add basic tests
 2023-02-23 - feat: add logging middleware
+2023-02-27 - fix: handle null pointer in service
