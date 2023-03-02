@@ -13,3 +13,4 @@
 // refactor: simplify logic in script (2023-02-10)
 // perf: optimize loop execution (2023-02-16)
 // chore: bump version to 1.2.0 (2023-02-23)
+// test: add basic tests (2023-03-02)
