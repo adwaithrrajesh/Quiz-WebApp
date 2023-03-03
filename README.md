@@ -14,3 +14,4 @@
 // perf: optimize loop execution (2023-02-16)
 // chore: bump version to 1.2.0 (2023-02-23)
 // test: add basic tests (2023-03-02)
+// fix: bug in login flow (2023-03-03)
