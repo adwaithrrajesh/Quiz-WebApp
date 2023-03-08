@@ -45,3 +45,4 @@
 2023-03-03 - test: add basic tests
 2023-03-06 - fix: typo in README
 2023-03-06 - chore: bump version to 1.2.0
+2023-03-08 - style: fix formatting
