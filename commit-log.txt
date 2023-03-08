@@ -315,3 +315,4 @@
 2023-03-02 - feat: add logging middleware
 2023-03-03 - refactor: modularize service
 2023-03-07 - fix: bug in login flow
+2023-03-08 - test: add basic tests
