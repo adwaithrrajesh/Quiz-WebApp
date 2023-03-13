@@ -51,3 +51,4 @@
 2023-03-09 - test: add edge case coverage
 2023-03-10 - style: fix formatting
 2023-03-10 - fix: bug in login flow
+2023-03-13 - feat: add new helper method
