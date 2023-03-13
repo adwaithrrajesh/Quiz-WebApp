@@ -4,3 +4,4 @@
     return null;
   };
 // perf: optimize loop execution (2023-03-13)
+// chore: bump version to 1.2.0 (2023-03-13)
