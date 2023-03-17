@@ -322,3 +322,4 @@
 2023-03-15 - perf: cache DB queries
 2023-03-16 - docs: clarify API response format
 2023-03-16 - perf: cache DB queries
+2023-03-17 - fix: typo in README
