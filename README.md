@@ -92,3 +92,4 @@
 // test: add edge case coverage (2023-03-15)
 // ci: update workflow file (2023-03-20)
 // test: add basic tests (2023-03-30)
+// feat: integrate new endpoint (2023-03-30)
