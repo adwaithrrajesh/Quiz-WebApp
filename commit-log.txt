@@ -59,3 +59,4 @@
 2023-03-28 - docs: clarify API response format
 2023-03-28 - test: add basic tests
 2023-03-30 - perf: optimize loop execution
+2023-04-03 - build: update dependencies
