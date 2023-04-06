@@ -65,3 +65,4 @@
 2023-04-04 - refactor: simplify logic in script
 2023-04-04 - style: fix formatting
 2023-04-05 - feat: integrate new endpoint
+2023-04-06 - perf: cache DB queries
