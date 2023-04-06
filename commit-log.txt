@@ -334,3 +334,4 @@
 2023-03-31 - feat: add logging middleware
 2023-04-04 - docs: clarify API response format
 2023-04-05 - build: update dependencies
+2023-04-06 - chore: bump version to 1.2.0
