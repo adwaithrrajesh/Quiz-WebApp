@@ -18,3 +18,4 @@
 // fix: bug in login flow (2023-03-06)
 // perf: optimize loop execution (2023-03-22)
 // build: update dependencies (2023-03-23)
+// feat: add logging middleware (2023-04-06)
