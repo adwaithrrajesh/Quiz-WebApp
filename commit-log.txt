@@ -337,3 +337,4 @@
 2023-04-06 - chore: bump version to 1.2.0
 2023-04-06 - test: add edge case coverage
 2023-04-07 - docs: update usage section
+2023-04-07 - chore: clean up old code
