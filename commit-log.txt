@@ -338,3 +338,4 @@
 2023-04-06 - test: add edge case coverage
 2023-04-07 - docs: update usage section
 2023-04-07 - chore: clean up old code
+2023-04-11 - build: update dependencies
