@@ -94,3 +94,4 @@
 // test: add basic tests (2023-03-30)
 // feat: integrate new endpoint (2023-03-30)
 // docs: clarify API response format (2023-03-30)
+// feat: add new helper method (2023-04-11)
