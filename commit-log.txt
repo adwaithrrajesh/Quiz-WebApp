@@ -68,3 +68,4 @@
 2023-04-06 - perf: cache DB queries
 2023-04-11 - chore: bump version to 1.2.0
 2023-04-11 - docs: clarify API response format
+2023-04-12 - perf: cache DB queries
