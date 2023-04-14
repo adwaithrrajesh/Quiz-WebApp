@@ -342,3 +342,4 @@
 2023-04-12 - perf: optimize loop execution
 2023-04-13 - style: fix formatting
 2023-04-13 - perf: cache DB queries
+2023-04-14 - docs: clarify API response format
