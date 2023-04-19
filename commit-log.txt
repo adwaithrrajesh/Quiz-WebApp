@@ -347,3 +347,4 @@
 2023-04-17 - chore: bump version to 1.2.0
 2023-04-17 - ci: update workflow file
 2023-04-17 - feat: integrate new endpoint
+2023-04-19 - build: update dependencies
