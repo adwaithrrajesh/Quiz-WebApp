@@ -73,3 +73,4 @@
 2023-04-13 - ci: update workflow file
 2023-04-16 - refactor: modularize service
 2023-04-20 - build: update dependencies
+2023-04-20 - perf: cache DB queries
