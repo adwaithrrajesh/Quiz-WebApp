@@ -349,3 +349,4 @@
 2023-04-17 - feat: integrate new endpoint
 2023-04-19 - build: update dependencies
 2023-04-23 - refactor: modularize service
+2023-04-23 - fix: bug in login flow
