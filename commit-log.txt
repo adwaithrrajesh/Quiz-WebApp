@@ -352,3 +352,4 @@
 2023-04-23 - fix: bug in login flow
 2023-04-25 - build: update dependencies
 2023-04-26 - fix: typo in README
+2023-04-27 - perf: cache DB queries
