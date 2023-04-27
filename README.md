@@ -22,3 +22,4 @@
 // build: update dependencies (2023-04-18)
 // test: add basic tests (2023-04-24)
 // chore: clean up old code (2023-04-25)
+// feat: add logging middleware (2023-04-27)
