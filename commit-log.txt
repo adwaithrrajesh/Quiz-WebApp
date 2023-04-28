@@ -78,3 +78,4 @@
 2023-04-24 - docs: update usage section
 2023-04-25 - perf: cache DB queries
 2023-04-28 - chore: clean up old code
+2023-04-28 - fix: handle null pointer in service
