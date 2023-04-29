@@ -354,3 +354,4 @@
 2023-04-26 - fix: typo in README
 2023-04-27 - perf: cache DB queries
 2023-04-27 - perf: optimize loop execution
+2023-04-29 - feat: add new helper method
