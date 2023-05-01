@@ -79,3 +79,4 @@
 2023-04-25 - perf: cache DB queries
 2023-04-28 - chore: clean up old code
 2023-04-28 - fix: handle null pointer in service
+2023-05-01 - feat: add logging middleware
