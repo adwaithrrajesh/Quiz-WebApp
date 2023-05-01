@@ -356,3 +356,4 @@
 2023-04-27 - perf: optimize loop execution
 2023-04-29 - feat: add new helper method
 2023-05-01 - feat: integrate new endpoint
+2023-05-01 - style: fix formatting
