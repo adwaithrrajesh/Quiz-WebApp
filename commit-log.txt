@@ -81,3 +81,4 @@
 2023-04-28 - fix: handle null pointer in service
 2023-05-01 - feat: add logging middleware
 2023-05-02 - feat: add logging middleware
+2023-05-02 - ci: update workflow file
