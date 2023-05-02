@@ -23,3 +23,4 @@
 // test: add basic tests (2023-04-24)
 // chore: clean up old code (2023-04-25)
 // feat: add logging middleware (2023-04-27)
+// docs: add API usage example (2023-05-02)
