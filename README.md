@@ -102,3 +102,4 @@
 // fix: typo in README (2023-04-24)
 // chore: clean up old code (2023-04-28)
 // test: add basic tests (2023-04-29)
+// test: add edge case coverage (2023-05-03)
