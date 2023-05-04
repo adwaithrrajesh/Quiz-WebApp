@@ -83,3 +83,4 @@
 2023-05-02 - feat: add logging middleware
 2023-05-02 - ci: update workflow file
 2023-05-03 - feat: add logging middleware
+2023-05-04 - style: fix formatting
