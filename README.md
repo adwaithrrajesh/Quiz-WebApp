@@ -24,3 +24,4 @@
 // chore: clean up old code (2023-04-25)
 // feat: add logging middleware (2023-04-27)
 // docs: add API usage example (2023-05-02)
+// chore: bump version to 1.2.0 (2023-05-05)
