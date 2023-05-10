@@ -26,3 +26,4 @@
 // docs: add API usage example (2023-05-02)
 // chore: bump version to 1.2.0 (2023-05-05)
 // fix: handle null pointer in service (2023-05-09)
+// perf: optimize loop execution (2023-05-10)
