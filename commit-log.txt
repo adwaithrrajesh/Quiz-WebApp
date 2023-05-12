@@ -86,3 +86,4 @@
 2023-05-04 - style: fix formatting
 2023-05-05 - chore: clean up old code
 2023-05-11 - chore: bump version to 1.2.0
+2023-05-12 - docs: add API usage example
