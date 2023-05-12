@@ -360,3 +360,4 @@
 2023-05-04 - perf: cache DB queries
 2023-05-09 - fix: bug in login flow
 2023-05-10 - perf: cache DB queries
+2023-05-12 - feat: integrate new endpoint
