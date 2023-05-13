@@ -362,3 +362,4 @@
 2023-05-10 - perf: cache DB queries
 2023-05-12 - feat: integrate new endpoint
 2023-05-13 - feat: add logging middleware
+2023-05-13 - style: fix formatting
