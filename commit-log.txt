@@ -365,3 +365,4 @@
 2023-05-13 - style: fix formatting
 2023-05-15 - feat: integrate new endpoint
 2023-05-17 - style: fix formatting
+2023-05-18 - perf: cache DB queries
