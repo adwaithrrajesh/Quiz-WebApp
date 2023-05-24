@@ -90,3 +90,4 @@
 2023-05-15 - docs: add API usage example
 2023-05-16 - docs: update usage section
 2023-05-17 - perf: cache DB queries
+2023-05-24 - docs: add API usage example
