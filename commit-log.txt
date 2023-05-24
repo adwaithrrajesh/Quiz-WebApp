@@ -372,3 +372,4 @@
 2023-05-22 - feat: integrate new endpoint
 2023-05-23 - refactor: modularize service
 2023-05-24 - feat: integrate new endpoint
+2023-05-24 - fix: bug in login flow
