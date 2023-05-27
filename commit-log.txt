@@ -93,3 +93,4 @@
 2023-05-24 - docs: add API usage example
 2023-05-27 - fix: handle null pointer in service
 2023-05-27 - test: add edge case coverage
+2023-05-27 - docs: add API usage example
