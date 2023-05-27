@@ -92,3 +92,4 @@
 2023-05-17 - perf: cache DB queries
 2023-05-24 - docs: add API usage example
 2023-05-27 - fix: handle null pointer in service
+2023-05-27 - test: add edge case coverage
