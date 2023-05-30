@@ -96,3 +96,4 @@
 2023-05-27 - docs: add API usage example
 2023-05-27 - feat: add new helper method
 2023-05-29 - feat: add new helper method
+2023-05-30 - refactor: simplify logic in script
