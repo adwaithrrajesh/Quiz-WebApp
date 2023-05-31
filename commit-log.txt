@@ -376,3 +376,4 @@
 2023-05-26 - fix: handle null pointer in service
 2023-05-29 - docs: update usage section
 2023-05-29 - fix: bug in login flow
+2023-05-31 - build: update dependencies
