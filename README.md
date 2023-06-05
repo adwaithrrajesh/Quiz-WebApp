@@ -110,3 +110,4 @@
 // refactor: modularize service (2023-05-15)
 // docs: update usage section (2023-05-31)
 // build: update dependencies (2023-06-01)
+// fix: typo in README (2023-06-05)
