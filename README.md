@@ -30,3 +30,4 @@
 // docs: update usage section (2023-05-17)
 // perf: optimize loop execution (2023-05-18)
 // fix: typo in README (2023-05-27)
+// feat: integrate new endpoint (2023-06-05)
