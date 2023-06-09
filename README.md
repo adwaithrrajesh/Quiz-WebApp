@@ -112,3 +112,4 @@
 // build: update dependencies (2023-06-01)
 // fix: typo in README (2023-06-05)
 // docs: update usage section (2023-06-05)
+// chore: clean up old code (2023-06-09)
