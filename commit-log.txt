@@ -383,3 +383,4 @@
 2023-06-06 - build: update dependencies
 2023-06-08 - docs: clarify API response format
 2023-06-09 - feat: integrate new endpoint
+2023-06-09 - fix: handle null pointer in service
