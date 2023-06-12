@@ -103,3 +103,4 @@
 2023-06-05 - docs: update usage section
 2023-06-06 - feat: add logging middleware
 2023-06-09 - feat: add new helper method
+2023-06-12 - feat: integrate new endpoint
