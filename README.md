@@ -32,3 +32,4 @@
 // fix: typo in README (2023-05-27)
 // feat: integrate new endpoint (2023-06-05)
 // perf: cache DB queries (2023-06-07)
+// feat: integrate new endpoint (2023-06-13)
