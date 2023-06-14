@@ -105,3 +105,4 @@
 2023-06-09 - feat: add new helper method
 2023-06-12 - feat: integrate new endpoint
 2023-06-14 - feat: integrate new endpoint
+2023-06-14 - style: fix formatting
