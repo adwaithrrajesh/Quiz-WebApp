@@ -388,3 +388,4 @@
 2023-06-12 - fix: bug in login flow
 2023-06-15 - refactor: simplify logic in script
 2023-06-18 - docs: add API usage example
+2023-06-19 - refactor: modularize service
