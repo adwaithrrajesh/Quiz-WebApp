@@ -115,3 +115,4 @@
 // chore: clean up old code (2023-06-09)
 // feat: add logging middleware (2023-06-14)
 // refactor: modularize service (2023-06-18)
+// perf: cache DB queries (2023-06-22)
