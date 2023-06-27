@@ -391,3 +391,4 @@
 2023-06-19 - refactor: modularize service
 2023-06-22 - refactor: simplify logic in script
 2023-06-26 - fix: bug in login flow
+2023-06-27 - build: update dependencies
