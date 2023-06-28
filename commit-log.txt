@@ -110,3 +110,4 @@
 2023-06-22 - docs: add API usage example
 2023-06-22 - refactor: modularize service
 2023-06-23 - feat: add new helper method
+2023-06-28 - ci: update workflow file
