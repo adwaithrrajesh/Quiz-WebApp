@@ -394,3 +394,4 @@
 2023-06-27 - build: update dependencies
 2023-06-29 - test: add basic tests
 2023-06-29 - refactor: modularize service
+2023-06-29 - feat: add logging middleware
