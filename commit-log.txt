@@ -392,3 +392,4 @@
 2023-06-22 - refactor: simplify logic in script
 2023-06-26 - fix: bug in login flow
 2023-06-27 - build: update dependencies
+2023-06-29 - test: add basic tests
