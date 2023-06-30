@@ -397,3 +397,4 @@
 2023-06-29 - feat: add logging middleware
 2023-06-30 - ci: update workflow file
 2023-06-30 - chore: clean up old code
+2023-06-30 - refactor: simplify logic in script
