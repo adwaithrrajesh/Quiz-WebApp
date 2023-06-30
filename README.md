@@ -38,3 +38,4 @@
 // refactor: simplify logic in script (2023-06-21)
 // style: fix formatting (2023-06-28)
 // test: add basic tests (2023-06-28)
+// docs: update usage section (2023-06-30)
