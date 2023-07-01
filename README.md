@@ -39,3 +39,4 @@
 // style: fix formatting (2023-06-28)
 // test: add basic tests (2023-06-28)
 // docs: update usage section (2023-06-30)
+// refactor: modularize service (2023-07-01)
