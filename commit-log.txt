@@ -115,3 +115,4 @@
 2023-06-30 - style: fix formatting
 2023-06-30 - style: fix formatting
 2023-07-01 - refactor: simplify logic in script
+2023-07-01 - fix: bug in login flow
