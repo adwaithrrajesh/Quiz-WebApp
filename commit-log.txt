@@ -398,3 +398,4 @@
 2023-06-30 - ci: update workflow file
 2023-06-30 - chore: clean up old code
 2023-06-30 - refactor: simplify logic in script
+2023-07-03 - test: add edge case coverage
