@@ -41,3 +41,4 @@
 // docs: update usage section (2023-06-30)
 // refactor: modularize service (2023-07-01)
 // perf: cache DB queries (2023-07-03)
+// feat: integrate new endpoint (2023-07-03)
