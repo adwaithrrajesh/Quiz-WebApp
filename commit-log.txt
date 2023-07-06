@@ -119,3 +119,4 @@
 2023-07-03 - chore: bump version to 1.2.0
 2023-07-03 - test: add basic tests
 2023-07-03 - style: fix formatting
+2023-07-06 - feat: add logging middleware
