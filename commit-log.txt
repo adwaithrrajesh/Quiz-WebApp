@@ -120,3 +120,4 @@
 2023-07-03 - test: add basic tests
 2023-07-03 - style: fix formatting
 2023-07-06 - feat: add logging middleware
+2023-07-06 - chore: clean up old code
