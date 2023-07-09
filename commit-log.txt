@@ -123,3 +123,4 @@
 2023-07-06 - chore: clean up old code
 2023-07-08 - chore: clean up old code
 2023-07-08 - feat: add logging middleware
+2023-07-09 - refactor: simplify logic in script
