@@ -43,3 +43,4 @@
 // perf: cache DB queries (2023-07-03)
 // feat: integrate new endpoint (2023-07-03)
 // docs: clarify API response format (2023-07-04)
+// feat: integrate new endpoint (2023-07-09)
