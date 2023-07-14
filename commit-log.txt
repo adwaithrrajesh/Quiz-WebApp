@@ -127,3 +127,4 @@
 2023-07-09 - feat: integrate new endpoint
 2023-07-09 - perf: optimize loop execution
 2023-07-12 - feat: integrate new endpoint
+2023-07-14 - perf: cache DB queries
