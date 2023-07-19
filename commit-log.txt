@@ -129,3 +129,4 @@
 2023-07-12 - feat: integrate new endpoint
 2023-07-14 - perf: cache DB queries
 2023-07-14 - fix: handle null pointer in service
+2023-07-19 - fix: handle null pointer in service
