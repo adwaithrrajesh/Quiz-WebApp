@@ -131,3 +131,4 @@
 2023-07-14 - fix: handle null pointer in service
 2023-07-19 - fix: handle null pointer in service
 2023-07-19 - ci: update workflow file
+2023-07-26 - perf: cache DB queries
