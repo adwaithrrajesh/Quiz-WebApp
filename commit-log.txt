@@ -411,3 +411,4 @@
 2023-07-27 - perf: cache DB queries
 2023-07-27 - feat: add new helper method
 2023-07-28 - docs: update usage section
+2023-07-31 - build: update dependencies
