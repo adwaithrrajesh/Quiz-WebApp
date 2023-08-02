@@ -47,3 +47,4 @@
 // feat: add new helper method (2023-07-13)
 // build: update dependencies (2023-07-27)
 // chore: bump version to 1.2.0 (2023-08-02)
+// feat: add logging middleware (2023-08-02)
