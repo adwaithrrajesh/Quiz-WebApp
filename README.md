@@ -49,3 +49,4 @@
 // chore: bump version to 1.2.0 (2023-08-02)
 // feat: add logging middleware (2023-08-02)
 // feat: add logging middleware (2023-08-03)
+// docs: clarify API response format (2023-08-03)
