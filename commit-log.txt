@@ -421,3 +421,4 @@
 2023-08-02 - style: fix formatting
 2023-08-03 - test: add basic tests
 2023-08-04 - feat: add logging middleware
+2023-08-04 - fix: handle null pointer in service
