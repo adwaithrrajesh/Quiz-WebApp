@@ -50,3 +50,4 @@
 // feat: add logging middleware (2023-08-02)
 // feat: add logging middleware (2023-08-03)
 // docs: clarify API response format (2023-08-03)
+// refactor: simplify logic in script (2023-08-04)
