@@ -423,3 +423,4 @@
 2023-08-04 - feat: add logging middleware
 2023-08-04 - fix: handle null pointer in service
 2023-08-04 - fix: handle null pointer in service
+2023-08-07 - test: add basic tests
