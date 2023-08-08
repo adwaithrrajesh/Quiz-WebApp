@@ -424,3 +424,4 @@
 2023-08-04 - fix: handle null pointer in service
 2023-08-04 - fix: handle null pointer in service
 2023-08-07 - test: add basic tests
+2023-08-08 - fix: typo in README
