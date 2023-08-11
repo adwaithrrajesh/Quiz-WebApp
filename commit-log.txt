@@ -426,3 +426,4 @@
 2023-08-07 - test: add basic tests
 2023-08-08 - fix: typo in README
 2023-08-11 - chore: clean up old code
+2023-08-11 - feat: add new helper method
