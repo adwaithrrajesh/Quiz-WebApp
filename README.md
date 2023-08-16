@@ -121,3 +121,4 @@
 // perf: optimize loop execution (2023-07-24)
 // test: add basic tests (2023-07-31)
 // docs: add API usage example (2023-08-11)
+// feat: add logging middleware (2023-08-16)
