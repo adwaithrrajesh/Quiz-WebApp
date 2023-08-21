@@ -147,3 +147,4 @@
 2023-08-15 - perf: optimize loop execution
 2023-08-15 - docs: update usage section
 2023-08-17 - feat: integrate new endpoint
+2023-08-21 - docs: clarify API response format
