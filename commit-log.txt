@@ -148,3 +148,4 @@
 2023-08-15 - docs: update usage section
 2023-08-17 - feat: integrate new endpoint
 2023-08-21 - docs: clarify API response format
+2023-08-22 - ci: update workflow file
