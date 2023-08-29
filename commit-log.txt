@@ -155,3 +155,4 @@
 2023-08-25 - perf: optimize loop execution
 2023-08-25 - fix: typo in README
 2023-08-26 - fix: handle null pointer in service
+2023-08-29 - ci: update workflow file
