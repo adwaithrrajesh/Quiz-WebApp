@@ -437,3 +437,4 @@
 2023-08-24 - feat: add logging middleware
 2023-08-25 - chore: clean up old code
 2023-08-28 - feat: integrate new endpoint
+2023-08-29 - test: add edge case coverage
