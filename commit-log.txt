@@ -159,3 +159,4 @@
 2023-08-30 - feat: integrate new endpoint
 2023-08-30 - feat: add logging middleware
 2023-08-31 - style: fix formatting
+2023-09-01 - chore: bump version to 1.2.0
