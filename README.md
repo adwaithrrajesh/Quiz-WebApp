@@ -53,3 +53,4 @@
 // refactor: simplify logic in script (2023-08-04)
 // style: fix formatting (2023-08-12)
 // chore: clean up old code (2023-08-16)
+// fix: bug in login flow (2023-09-04)
