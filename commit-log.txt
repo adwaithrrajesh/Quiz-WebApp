@@ -162,3 +162,4 @@
 2023-09-01 - chore: bump version to 1.2.0
 2023-09-04 - docs: add API usage example
 2023-09-04 - docs: update usage section
+2023-09-06 - docs: clarify API response format
