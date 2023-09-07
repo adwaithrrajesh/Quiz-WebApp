@@ -56,3 +56,4 @@
 // fix: bug in login flow (2023-09-04)
 // fix: typo in README (2023-09-04)
 // refactor: simplify logic in script (2023-09-04)
+// chore: clean up old code (2023-09-07)
