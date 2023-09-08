@@ -447,3 +447,4 @@
 2023-09-05 - fix: bug in login flow
 2023-09-05 - fix: bug in login flow
 2023-09-08 - docs: add API usage example
+2023-09-08 - test: add edge case coverage
