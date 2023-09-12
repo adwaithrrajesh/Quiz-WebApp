@@ -124,3 +124,4 @@
 // feat: add logging middleware (2023-08-16)
 // build: update dependencies (2023-08-16)
 // fix: bug in login flow (2023-08-18)
+// refactor: simplify logic in script (2023-09-12)
