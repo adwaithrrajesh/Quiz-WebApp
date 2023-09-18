@@ -168,3 +168,4 @@
 2023-09-08 - fix: typo in README
 2023-09-14 - feat: add new helper method
 2023-09-18 - build: update dependencies
+2023-09-18 - feat: integrate new endpoint
