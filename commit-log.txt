@@ -171,3 +171,4 @@
 2023-09-18 - feat: integrate new endpoint
 2023-09-19 - feat: add new helper method
 2023-09-21 - build: update dependencies
+2023-09-21 - fix: handle null pointer in service
