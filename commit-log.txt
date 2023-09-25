@@ -176,3 +176,4 @@
 2023-09-25 - feat: add logging middleware
 2023-09-25 - ci: update workflow file
 2023-09-25 - feat: integrate new endpoint
+2023-09-25 - fix: bug in login flow
