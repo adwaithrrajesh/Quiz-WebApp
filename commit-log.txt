@@ -173,3 +173,4 @@
 2023-09-21 - build: update dependencies
 2023-09-21 - fix: handle null pointer in service
 2023-09-23 - test: add basic tests
+2023-09-25 - feat: add logging middleware
