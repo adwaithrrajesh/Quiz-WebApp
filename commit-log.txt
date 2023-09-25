@@ -175,3 +175,4 @@
 2023-09-23 - test: add basic tests
 2023-09-25 - feat: add logging middleware
 2023-09-25 - ci: update workflow file
+2023-09-25 - feat: integrate new endpoint
