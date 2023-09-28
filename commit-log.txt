@@ -179,3 +179,4 @@
 2023-09-25 - fix: bug in login flow
 2023-09-26 - ci: update workflow file
 2023-09-27 - ci: update workflow file
+2023-09-28 - build: update dependencies
