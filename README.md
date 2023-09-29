@@ -128,3 +128,4 @@
 // fix: bug in login flow (2023-09-12)
 // feat: add logging middleware (2023-09-12)
 // feat: add new helper method (2023-09-22)
+// docs: update usage section (2023-09-29)
