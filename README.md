@@ -130,3 +130,4 @@
 // feat: add new helper method (2023-09-22)
 // docs: update usage section (2023-09-29)
 // chore: bump version to 1.2.0 (2023-10-03)
+// feat: add logging middleware (2023-10-03)
