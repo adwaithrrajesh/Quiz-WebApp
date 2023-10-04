@@ -183,3 +183,4 @@
 2023-09-29 - fix: bug in login flow
 2023-09-29 - docs: update usage section
 2023-10-02 - docs: clarify API response format
+2023-10-04 - perf: cache DB queries
