@@ -186,3 +186,4 @@
 2023-10-04 - perf: cache DB queries
 2023-10-05 - perf: optimize loop execution
 2023-10-05 - refactor: modularize service
+2023-10-05 - docs: add API usage example
