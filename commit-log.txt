@@ -462,3 +462,4 @@
 2023-10-04 - refactor: simplify logic in script
 2023-10-04 - perf: optimize loop execution
 2023-10-05 - style: fix formatting
+2023-10-05 - docs: add API usage example
