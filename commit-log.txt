@@ -188,3 +188,4 @@
 2023-10-05 - refactor: modularize service
 2023-10-05 - docs: add API usage example
 2023-10-06 - chore: bump version to 1.2.0
+2023-10-07 - build: update dependencies
