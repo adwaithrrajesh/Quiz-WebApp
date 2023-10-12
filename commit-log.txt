@@ -191,3 +191,4 @@
 2023-10-07 - build: update dependencies
 2023-10-07 - docs: add API usage example
 2023-10-10 - build: update dependencies
+2023-10-12 - docs: add API usage example
