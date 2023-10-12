@@ -133,3 +133,4 @@
 // feat: add logging middleware (2023-10-03)
 // perf: cache DB queries (2023-10-06)
 // fix: bug in login flow (2023-10-06)
+// refactor: modularize service (2023-10-12)
