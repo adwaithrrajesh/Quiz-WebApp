@@ -472,3 +472,4 @@
 2023-10-12 - perf: cache DB queries
 2023-10-14 - refactor: simplify logic in script
 2023-10-14 - fix: handle null pointer in service
+2023-10-14 - test: add basic tests
