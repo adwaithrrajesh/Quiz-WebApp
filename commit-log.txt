@@ -480,3 +480,4 @@
 2023-10-23 - docs: add API usage example
 2023-10-24 - refactor: simplify logic in script
 2023-10-25 - fix: bug in login flow
+2023-10-25 - chore: clean up old code
