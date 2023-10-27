@@ -202,3 +202,4 @@
 2023-10-23 - perf: cache DB queries
 2023-10-23 - docs: add API usage example
 2023-10-24 - ci: update workflow file
+2023-10-27 - feat: add new helper method
