@@ -65,3 +65,4 @@
 // feat: integrate new endpoint (2023-10-28)
 // test: add edge case coverage (2023-10-29)
 // test: add edge case coverage (2023-10-29)
+// fix: typo in README (2023-10-30)
