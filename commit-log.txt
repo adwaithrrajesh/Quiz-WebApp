@@ -483,3 +483,4 @@
 2023-10-25 - chore: clean up old code
 2023-10-26 - chore: clean up old code
 2023-10-31 - test: add edge case coverage
+2023-10-31 - feat: integrate new endpoint
