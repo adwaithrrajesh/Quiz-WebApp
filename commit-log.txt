@@ -208,3 +208,4 @@
 2023-10-31 - refactor: simplify logic in script
 2023-10-31 - test: add basic tests
 2023-10-31 - build: update dependencies
+2023-10-31 - feat: integrate new endpoint
