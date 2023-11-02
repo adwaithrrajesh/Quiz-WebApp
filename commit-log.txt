@@ -210,3 +210,4 @@
 2023-10-31 - build: update dependencies
 2023-10-31 - feat: integrate new endpoint
 2023-11-01 - chore: bump version to 1.2.0
+2023-11-02 - test: add basic tests
