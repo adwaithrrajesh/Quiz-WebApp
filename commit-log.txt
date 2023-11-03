@@ -212,3 +212,4 @@
 2023-11-01 - chore: bump version to 1.2.0
 2023-11-02 - test: add basic tests
 2023-11-02 - docs: clarify API response format
+2023-11-03 - refactor: modularize service
