@@ -485,3 +485,4 @@
 2023-10-31 - test: add edge case coverage
 2023-10-31 - feat: integrate new endpoint
 2023-10-31 - fix: handle null pointer in service
+2023-11-03 - docs: clarify API response format
