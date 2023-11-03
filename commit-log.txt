@@ -486,3 +486,4 @@
 2023-10-31 - feat: integrate new endpoint
 2023-10-31 - fix: handle null pointer in service
 2023-11-03 - docs: clarify API response format
+2023-11-03 - fix: bug in login flow
