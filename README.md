@@ -137,3 +137,4 @@
 // build: update dependencies (2023-10-16)
 // perf: optimize loop execution (2023-10-20)
 // style: fix formatting (2023-10-30)
+// fix: handle null pointer in service (2023-11-03)
