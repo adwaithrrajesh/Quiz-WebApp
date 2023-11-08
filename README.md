@@ -68,3 +68,4 @@
 // fix: typo in README (2023-10-30)
 // docs: update usage section (2023-10-31)
 // docs: clarify API response format (2023-11-06)
+// refactor: simplify logic in script (2023-11-08)
