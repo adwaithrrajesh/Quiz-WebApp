@@ -215,3 +215,4 @@
 2023-11-03 - refactor: modularize service
 2023-11-08 - chore: bump version to 1.2.0
 2023-11-08 - test: add basic tests
+2023-11-10 - perf: cache DB queries
