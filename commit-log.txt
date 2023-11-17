@@ -218,3 +218,4 @@
 2023-11-10 - perf: cache DB queries
 2023-11-10 - test: add edge case coverage
 2023-11-13 - refactor: simplify logic in script
+2023-11-17 - test: add basic tests
