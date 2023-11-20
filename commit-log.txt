@@ -220,3 +220,4 @@
 2023-11-13 - refactor: simplify logic in script
 2023-11-17 - test: add basic tests
 2023-11-20 - refactor: modularize service
+2023-11-20 - docs: update usage section
