@@ -140,3 +140,4 @@
 // fix: handle null pointer in service (2023-11-03)
 // fix: bug in login flow (2023-11-16)
 // feat: add new helper method (2023-11-21)
+// fix: typo in README (2023-11-22)
