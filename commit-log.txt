@@ -222,3 +222,4 @@
 2023-11-20 - refactor: modularize service
 2023-11-20 - docs: update usage section
 2023-11-21 - chore: bump version to 1.2.0
+2023-11-22 - docs: update usage section
