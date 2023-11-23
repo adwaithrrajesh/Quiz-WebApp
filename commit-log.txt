@@ -224,3 +224,4 @@
 2023-11-21 - chore: bump version to 1.2.0
 2023-11-22 - docs: update usage section
 2023-11-22 - docs: add API usage example
+2023-11-23 - feat: integrate new endpoint
