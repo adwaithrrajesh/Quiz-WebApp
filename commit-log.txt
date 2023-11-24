@@ -225,3 +225,4 @@
 2023-11-22 - docs: update usage section
 2023-11-22 - docs: add API usage example
 2023-11-23 - feat: integrate new endpoint
+2023-11-24 - feat: add new helper method
