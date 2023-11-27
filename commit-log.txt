@@ -498,3 +498,4 @@
 2023-11-21 - docs: add API usage example
 2023-11-21 - perf: optimize loop execution
 2023-11-23 - feat: add new helper method
+2023-11-27 - chore: bump version to 1.2.0
