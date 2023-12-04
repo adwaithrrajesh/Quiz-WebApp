@@ -501,3 +501,4 @@
 2023-11-27 - chore: bump version to 1.2.0
 2023-11-29 - test: add basic tests
 2023-11-30 - feat: add new helper method
+2023-12-04 - feat: add logging middleware
