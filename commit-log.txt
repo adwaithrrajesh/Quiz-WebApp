@@ -231,3 +231,4 @@
 2023-12-02 - fix: bug in login flow
 2023-12-04 - perf: optimize loop execution
 2023-12-04 - style: fix formatting
+2023-12-05 - perf: cache DB queries
