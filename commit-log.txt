@@ -232,3 +232,4 @@
 2023-12-04 - perf: optimize loop execution
 2023-12-04 - style: fix formatting
 2023-12-05 - perf: cache DB queries
+2023-12-06 - docs: add API usage example
