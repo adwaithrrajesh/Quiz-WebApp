@@ -503,3 +503,4 @@
 2023-11-30 - feat: add new helper method
 2023-12-04 - feat: add logging middleware
 2023-12-05 - docs: add API usage example
+2023-12-06 - fix: handle null pointer in service
