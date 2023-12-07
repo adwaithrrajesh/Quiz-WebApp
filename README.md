@@ -71,3 +71,4 @@
 // refactor: simplify logic in script (2023-11-08)
 // docs: add API usage example (2023-11-09)
 // docs: clarify API response format (2023-11-13)
+// fix: handle null pointer in service (2023-12-07)
