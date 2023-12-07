@@ -504,3 +504,4 @@
 2023-12-04 - feat: add logging middleware
 2023-12-05 - docs: add API usage example
 2023-12-06 - fix: handle null pointer in service
+2023-12-07 - docs: update usage section
