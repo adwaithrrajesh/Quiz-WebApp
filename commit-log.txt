@@ -505,3 +505,4 @@
 2023-12-05 - docs: add API usage example
 2023-12-06 - fix: handle null pointer in service
 2023-12-07 - docs: update usage section
+2023-12-08 - fix: bug in login flow
