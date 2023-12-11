@@ -236,3 +236,4 @@
 2023-12-07 - chore: clean up old code
 2023-12-11 - style: fix formatting
 2023-12-11 - refactor: modularize service
+2023-12-11 - chore: bump version to 1.2.0
