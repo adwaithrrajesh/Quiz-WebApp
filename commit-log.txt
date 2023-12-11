@@ -234,3 +234,4 @@
 2023-12-05 - perf: cache DB queries
 2023-12-06 - docs: add API usage example
 2023-12-07 - chore: clean up old code
+2023-12-11 - style: fix formatting
