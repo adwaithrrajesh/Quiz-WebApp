@@ -73,3 +73,4 @@
 // docs: clarify API response format (2023-11-13)
 // fix: handle null pointer in service (2023-12-07)
 // test: add basic tests (2023-12-11)
+// feat: add new helper method (2023-12-12)
